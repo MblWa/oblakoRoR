@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project contains a RoR-application as a part of test from OBLAKO GROUP for
+FullStack-Developer role.
 
-Things you may want to cover:
+Main goals
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* At first (after all gems, rvm, node, psql, yarn and rails installation) we are
+launching a simple RoR-application with one controller (Project) and one action
+(index) that returns JSON with the message "ok".
